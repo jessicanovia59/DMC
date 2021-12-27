@@ -1,4 +1,5 @@
-# GMC
+# DMC
+
 Tugas project Lab HCI
 
 Membuat website mengenai Devil May Crie 5
