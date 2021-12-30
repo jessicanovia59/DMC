@@ -8,3 +8,7 @@ html {
     width: 100%;
     background-color: #2F3136;
 }
+
+@media(max-width: 600px) {
+    
+}
