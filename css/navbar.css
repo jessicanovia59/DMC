@@ -1,0 +1,10 @@
+@font-face {
+    font-family: pala;
+    src: url(./font/pala.ttf);
+}
+
+html {
+    margin: 0;
+    width: 100%;
+    background-color: #2F3136;
+}
